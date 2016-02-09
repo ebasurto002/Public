@@ -7,3 +7,4 @@ After that, please make a commit. Take care to avoid collision with other contri
 1.- Armando Ferro
 
 2.- Iñigo Ruiz
+3.- Estrella Basurto
